@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApi", "TaskApi\TaskApi.csproj", "{ED8031DD-5421-484D-A22D-AFE48F89D6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifications", "Notifications\Notifications.csproj", "{7CE1A358-D4FD-4EF7-A274-78FFA11AFCEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8031DD-5421-484D-A22D-AFE48F89D6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8031DD-5421-484D-A22D-AFE48F89D6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8031DD-5421-484D-A22D-AFE48F89D6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8031DD-5421-484D-A22D-AFE48F89D6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE1A358-D4FD-4EF7-A274-78FFA11AFCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE1A358-D4FD-4EF7-A274-78FFA11AFCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE1A358-D4FD-4EF7-A274-78FFA11AFCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE1A358-D4FD-4EF7-A274-78FFA11AFCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A57BB57-CFF6-43BE-ABB3-DB14A477424E}
+	EndGlobalSection
+EndGlobal
